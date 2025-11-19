@@ -1,14 +1,10 @@
-<br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Jakub%20Rosi%C5%84ski&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Hi! Hello! I'm a computer science student with a passion for creating new things. One of my dreams is to create my own game that will delight not only me but also my future players. I program primarily in C++/C#, but I'm also developing my skills in Java and Python.</h4>
+<h4 align="left">Hi! Hello! I'm a computer science student with a passion for creating new things. One of my dreams is to create my own game that will delight not only me but also my future players. I program primarily in C++/C#, but I'm also developing my skills in Java and Python.</h4>
 
 ###
 
@@ -36,13 +32,11 @@
 
 ###
 
-<h1 align="center">My upcoming project</h1>
+<h1 align="left">My upcoming project</h1>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=25&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=StickQueen...%20More%20information%20coming%20soon%20;)&descSize=12&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+<p align="left">StickQueen... More information coming soon ;)</p>
 
 ###
 
@@ -55,11 +49,9 @@
 
 <br clear="both">
 
-<h2 align="center">Also you can find me here:</h2>
+<h2 align="left">Also you can find me here:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jakubrosinski04/" target="_blank">
