@@ -7,7 +7,7 @@ I'm a computer science student with a passion for creating new things. One of my
 # My upcoming project
 
 
-|**StickQueen**... More information coming soon ;)|
+|**StickQueen**... More information coming soon ;>|
 |-------|
 
 |![BlanKu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlanKu&theme=tokyonight&hide_border=true) | ![BlanKu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlanKu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
