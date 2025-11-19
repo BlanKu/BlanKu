@@ -1,4 +1,4 @@
-# Hi, Hello, my name is Jakub [BlanKu] 🍵
+# Hi! Hello! My name is Jakub [BlanKu] 🍵
 
 I'm a computer science student with a passion for creating new things. One of my dreams is to create my own game that will delight not only me but also my future players. I program primarily in C++/C#, but I'm also developing my skills in Java and Python.
 
@@ -7,7 +7,7 @@ I'm a computer science student with a passion for creating new things. One of my
 # My upcoming project
 
 
-|**StickQueen**... More information coming soon ;>|
+|**StickQueen**... More information coming soon ;)|
 |-------|
 
 |![BlanKu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlanKu&theme=tokyonight&hide_border=true) | ![BlanKu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlanKu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
