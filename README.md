@@ -1,74 +1,16 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Jakub%20Rosi%C5%84ski&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+# Jakub Rosiński
 
-###
+Computer science student in Lublin. I program in C# and Python, and I build games in Unity. I work with MySQL, MariaDB, PostgreSQL, and MongoDB, and I design and call REST APIs. That mix shows up in device control over Bluetooth and in gameplay code for an engineering thesis.
 
-<h4 align="left">Hi! Hello! I'm a computer science student with a passion for creating new things. One of my dreams is to create my own game that will delight not only me but also my future players. I program primarily in C++/C#, but I'm also developing my skills in Java and Python.</h4>
+[LinkedIn](https://www.linkedin.com/in/jakubrosinski04/) · [jakubrosinski.ddns.net](http://jakubrosinski.ddns.net)
 
-###
+`C#` `Unity` `Python` `MySQL` `MariaDB` `PostgreSQL` `MongoDB` `REST`
 
-<br clear="both">
+## Proud Projects
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
-</div>
+**[PyBricksDualSense](https://github.com/BlanKu/PyBricksDualSense)** · Python, BLE, Pybricks, MIT  
+Real-time remote control of a LEGO SPIKE Prime hub from a DualSense pad.  
+`remoteControllerPS5.py` finds the hub with Bleak, waits for a `rdy` handshake, and writes 3-byte commands (`fwd`, `rev`, `stp`, turns) to the Pybricks GATT characteristic (`0x06` + payload). `hubCode.py` polls `stdin` in MicroPython and drives two motors. Direction comes from the triggers and D-pad via `pydualsense`.
 
-###
-
-<h1 align="left">My upcoming project</h1>
-
-###
-
-<p align="left">StickQueen... More information coming soon ;)</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BlanKu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=BlanKu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Also you can find me here:</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jakubrosinski04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href=".blanku" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="instagram.com/_j4ku3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BlanKu.BlanKu&"  />
-</div>
-
-###
+**Slime_Island** · Unity, C# · engineering thesis, in progress  
+Unity game written as an engineering thesis. The repository and design stay private until the scope is fixed.
